@@ -1,0 +1,8 @@
+//
+// Created by tmiles on 15/10/18.
+//
+
+#ifndef ASSIGNMENT2_UTILITIES_H
+#define ASSIGNMENT2_UTILITIES_H
+
+#endif //ASSIGNMENT2_UTILITIES_H
