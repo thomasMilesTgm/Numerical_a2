@@ -1,0 +1,559 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.3.30)  17 OCT 2018 12:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2017-04-15>
+Babel <3.12> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks16
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks25
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count99
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen115
+\MPnumerator=\count103
+\makeMPintoPDFobject=\count104
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/5.png, id=8, 878.28125pt
+ x 658.46pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/5.png Graphic file 
+(type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/5.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+5.png  used on input line 34. on input line 34.
+Package pdftex.def Info: Requested size: 263.4864pt x 197.53952pt on input line
+ 34.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/15.png, id=9, 878.28125p
+t x 658.46pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/15.png Graphic file
+ (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/15.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+15.png  used on input line 35. on input line 35.
+Package pdftex.def Info: Requested size: 263.4864pt x 197.53952pt on input line
+ 35.
+
+Overfull \hbox (33.9864pt too wide) in paragraph at lines 34--36
+[]
+ []
+
+
+Overfull \hbox (33.9864pt too wide) in paragraph at lines 34--36
+[] 
+ []
+
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/bt.jpg, id=10, 1355.0625
+pt x 948.54375pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/bt.jpg Graphic file
+ (type jpg)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/bt.jpg>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+bt.jpg  used on input line 41. on input line 41.
+Package pdftex.def Info: Requested size: 257.46455pt x 180.22517pt on input lin
+e 41.
+
+Overfull \hbox (27.96455pt too wide) in paragraph at lines 41--42
+[] 
+ []
+
+
+Underfull \vbox (badness 2726) has occurred while \output is active []
+
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/tbm.jpg, id=11, 1928.203
+75pt x 1430.34375pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/tbm.jpg Graphic fil
+e (type jpg)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/tbm.jpg>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+tbm.jpg  used on input line 43. on input line 43.
+Package pdftex.def Info: Requested size: 289.21808pt x 214.5423pt on input line
+ 43.
+
+Overfull \hbox (59.71808pt too wide) in paragraph at lines 43--44
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+ </home/tmiles/Code/Numerical_Programming/A2/report/gfx/5.png (PNG copy)> </hom
+e/tmiles/Code/Numerical_Programming/A2/report/gfx/15.png (PNG copy)> </home/tmi
+les/Code/Numerical_Programming/A2/report/gfx/bt.jpg> </home/tmiles/Code/Numeric
+al_Programming/A2/report/gfx/tbm.jpg>]
+Overfull \hbox (87.29518pt too wide) in paragraph at lines 102--102
+[] 
+ []
+
+
+Overfull \hbox (40.1763pt too wide) in paragraph at lines 118--118
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/spline.png, id=26, 455.4
+5157pt x 255.95625pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/spline.png Graphic 
+file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/spline.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+spline.png  used on input line 139. on input line 139.
+Package pdftex.def Info: Requested size: 273.27304pt x 153.57492pt on input lin
+e 139.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lagrange.png, id=27, 455
+.45157pt x 255.95625pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lagrange.png Graphi
+c file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lagrange.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+lagrange.png  used on input line 140. on input line 140.
+Package pdftex.def Info: Requested size: 273.27304pt x 153.57492pt on input lin
+e 140.
+
+Overfull \hbox (43.77304pt too wide) in paragraph at lines 139--141
+[]
+ []
+
+
+Overfull \hbox (43.77304pt too wide) in paragraph at lines 139--141
+[] 
+ []
+
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-80.png, id=28, 429.
+10312pt x 284.56313pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-80.png Graphic
+ file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-80.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+eu-1-80.png  used on input line 146. on input line 146.
+Package pdftex.def Info: Requested size: 214.55103pt x 142.2812pt on input line
+ 146.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-80.png, id=29, 42
+9.10312pt x 284.56313pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-80.png Graph
+ic file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-80.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+eu-075-80.png  used on input line 147. on input line 147.
+Package pdftex.def Info: Requested size: 214.55103pt x 142.2812pt on input line
+ 147.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-80.png, id=30, 42
+9.10312pt x 284.56313pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-80.png Graph
+ic file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-80.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+eu-025-80.png  used on input line 148. on input line 148.
+Package pdftex.def Info: Requested size: 214.55103pt x 142.2812pt on input line
+ 148.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-200.png, id=31, 429
+.10312pt x 284.56313pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-200.png Graphi
+c file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-200.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+eu-1-200.png  used on input line 149. on input line 149.
+Package pdftex.def Info: Requested size: 214.55103pt x 142.2812pt on input line
+ 149.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-200.png, id=32, 4
+29.10312pt x 284.56313pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-200.png Grap
+hic file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-200.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+eu-075-200.png  used on input line 150. on input line 150.
+Package pdftex.def Info: Requested size: 214.55103pt x 142.2812pt on input line
+ 150.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-200.png, id=33, 4
+29.10312pt x 284.56313pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-200.png Grap
+hic file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-200.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+eu-025-200.png  used on input line 151. on input line 151.
+Package pdftex.def Info: Requested size: 214.55103pt x 142.2812pt on input line
+ 151.
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--152
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--152
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--152
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--152
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--152
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 </home/tmiles/Code/Numerical_Programming/A2/report/gfx/spline.png (PNG copy
+)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lagrange.png (PNG cop
+y)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-80.png (PNG cop
+y)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-80.png (PNG c
+opy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-80.png (PNG
+ copy)>]
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-80.png, id=37, 385.
+44pt x 249.93375pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-80.png Graphic
+ file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-80.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+lx-1-80.png  used on input line 154. on input line 154.
+Package pdftex.def Info: Requested size: 192.71953pt x 124.96657pt on input lin
+e 154.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-80.png, id=38, 38
+5.44pt x 249.93375pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-80.png Graph
+ic file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-80.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+lx-075-80.png  used on input line 155. on input line 155.
+Package pdftex.def Info: Requested size: 192.71953pt x 124.96657pt on input lin
+e 155.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-80.png, id=39, 38
+5.44pt x 249.93375pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-80.png Graph
+ic file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-80.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+lx-025-80.png  used on input line 156. on input line 156.
+Package pdftex.def Info: Requested size: 192.71953pt x 124.96657pt on input lin
+e 156.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-200.png, id=40, 385
+.44pt x 249.93375pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-200.png Graphi
+c file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-200.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+lx-1-200.png  used on input line 157. on input line 157.
+Package pdftex.def Info: Requested size: 192.71953pt x 124.96657pt on input lin
+e 157.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-200.png, id=41, 3
+85.44pt x 249.93375pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-200.png Grap
+hic file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-200.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+lx-075-200.png  used on input line 158. on input line 158.
+Package pdftex.def Info: Requested size: 192.71953pt x 124.96657pt on input lin
+e 158.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-200.png, id=42, 3
+85.44pt x 249.93375pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-200.png Grap
+hic file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-200.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+lx-025-200.png  used on input line 159. on input line 159.
+Package pdftex.def Info: Requested size: 192.71953pt x 124.96657pt on input lin
+e 159.
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--160
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--160
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--160
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--160
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--160
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-200.png (PNG co
+py)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-200.png (PNG
+ copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-200.png (
+PNG copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-80.png (
+PNG copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-80.png
+ (PNG copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-80.p
+ng (PNG copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-200.
+png (PNG copy)>]
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1002.png, id=46, 455.
+45157pt x 255.95625pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1002.png Graphic
+ file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1002.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+eu-1002.png  used on input line 162. on input line 162.
+Package pdftex.def Info: Requested size: 227.72522pt x 127.9778pt on input line
+ 162.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1002.png, id=47, 455.
+45157pt x 255.95625pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1002.png Graphic
+ file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1002.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+lx-1002.png  used on input line 163. on input line 163.
+Package pdftex.def Info: Requested size: 227.72522pt x 127.9778pt on input line
+ 163.
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
+[]
+ []
+
+[5
+
+ </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-200.png (PNG cop
+y)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-200.png (PNG 
+copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1002.png (PNG 
+copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1002.png (PNG 
+copy)>] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 2219 strings out of 492990
+ 34180 string characters out of 6135005
+ 109696 words of memory out of 5000000
+ 5742 multiletter control sequences out of 15000+600000
+ 9070 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,14n,25p,579b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmti10.pfb>
+Output written on report.pdf (6 pages, 896257 bytes).
+PDF statistics:
+ 87 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+

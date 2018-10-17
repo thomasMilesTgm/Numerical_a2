@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tmiles/Code/Numerical Programming/A2/src/tasks.h
+
+/home/tmiles/Code/Numerical Programming/A2/src/testing.c
+utils_2.h
+/home/tmiles/Code/Numerical Programming/A2/src/utils_2.h
+tasks.h
+/home/tmiles/Code/Numerical Programming/A2/src/tasks.h
+
+/home/tmiles/Code/Numerical Programming/A2/src/utils_2.c
+utils_2.h
+/home/tmiles/Code/Numerical Programming/A2/src/utils_2.h
+
+/home/tmiles/Code/Numerical Programming/A2/src/utils_2.h
+math.h
+/home/tmiles/Code/Numerical Programming/A2/src/math.h
+string.h
+/home/tmiles/Code/Numerical Programming/A2/src/string.h
+stdio.h
+-
+stdlib.h
+-
+

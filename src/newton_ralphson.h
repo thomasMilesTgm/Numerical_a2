@@ -12,8 +12,8 @@
 
 #define BUFFER_SIZE 4098
 #define M_PI 3.14159365
-#define CUTOFF 0.000000000001
-void read_csv(int row, int col, char *filename, double **data);
+#define CUTOFF 0.000001
+
 double to_rad(double angle);
 double to_deg(double angle);
 double f_beta(double beta, double gamma, double M, double theta);

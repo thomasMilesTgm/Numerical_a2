@@ -1,24 +1,25 @@
-//
-// Created by tmiles on 12/10/18.
-//
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
-#include <string.h>
-#include "tasks.h"
+def get_gnuplot_input():
 
-int main(int argc, char *argv[]) {
+	M = "5.0"
+	theta_d = 45
 
-	char* M = "1.5";
-	char* theta = "5";
-	char* gamma = "1.4";
-	char* cot = "(cos(x)/sin(x))";
-	char* sin2 = "sin(x)*sin(x)";
-	char* M2 = ""M"*"M;
 
-	char* f_b = "2*"cot"*"M2"*("sin2"-1)/("M2"*("gamma"+cos(2*x)+2)-tan("theta")))";
+	gamma = "1.4"
+	cot = "(cos(x)/sin(x))"
+	sin2 = "sin(x)*sin(x)"
+	M2 = M + "*" + M
 
-	system("gnuplot plot "f_b);
-	return (EXIT_SUCCESS);
-}
+	theta = str(theta_d*2*3.141592653589793238/360)
+
+	f_b = "2*" + cot + "*" + M2 + "*("  + sin2 + "-1)/(" + M2 + "*(" + gamma + "+cos(2*x)+2)-tan(" + theta + "))"
+	plot = "set xrange [0:90]\nshow xrange\nset title \"M = " + M + "; theta = " + str(theta_d) +"\" \n" + "set xlabel \"beta\" \n" \
+		   + "set ylabel \"f(beta)\"\n" + "unset key\n" +  "plot "+f_b
+	print(plot)
+
+
+if __name__ == "__main__":
+
+	get_gnuplot_input()
+
+

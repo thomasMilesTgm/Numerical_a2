@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wall -std=c99 *.c -o -lm -g   CMakeFiles/src.dir/testing.c.o CMakeFiles/src.dir/utils_2.c.o  -o src 

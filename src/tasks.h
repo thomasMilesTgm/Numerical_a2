@@ -8,9 +8,11 @@
 
 #ifndef TASKS_H
 
-#define B_L0 0      // initial guess for beta_l (deg)
+#define B_L0 1     // initial guess for beta_l (deg)
 #define B_U0 90     // initial guess for beta_u (deg)
-
+#define THETA_MAX 10
+#define THETA_MIN 1
+#define THETA_STEP 1
 
 void shockwave(const char* q2_file);
 

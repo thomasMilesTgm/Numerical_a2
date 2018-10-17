@@ -2,7 +2,7 @@
 // Created by tmiles on 12/10/18.
 //
 
-#include "utils_2.h"
+#include "newton_ralphson.h"
 
 void read_csv(int row, int col, char *filename, double **data){
 	FILE *file;
@@ -13,7 +13,6 @@ void read_csv(int row, int col, char *filename, double **data){
 	char line[BUFFER_SIZE];
 	while (fgets(line, BUFFER_SIZE, file) && (i < row))
 	{
-		// double row[ssParams->nreal + 1];
 		char* tmp = strdup(line);
 
 		int j = 0;
@@ -70,10 +69,16 @@ double newton_ralphson(double beta, double gamma, double M, double theta) {
 	/**
 	 * Recursive function to solve for zeros
 	 */
-	// TODO - bug causes NAN if beta == 0
+
+	if (theta == 0) {
+		return asin(1.0 / M);
+	}
 
 	double beta_n;      // tangent roots
 	double f_b = f_beta(beta, gamma, M, theta);
+
+
+
 	if (f_b < CUTOFF && f_b > -CUTOFF) {
 		return beta;
 	}
