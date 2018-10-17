@@ -29,5 +29,5 @@ set(SOURCE_HEADERS
 set(TEST src/testing.c)
 set(MAIN src/main.c)
 
-add_executable(main ${SOURCE_FILES} ${SOURCE_HEADERS} ${TEST})
+add_executable(main ${SOURCE_FILES} ${SOURCE_HEADERS} ${MAIN})
 target_link_libraries(main m)

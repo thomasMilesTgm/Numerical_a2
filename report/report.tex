@@ -142,24 +142,34 @@ Expanding (1) gives:
 	It can be seen from the plots above that the cubic spline interpolation provides a more accurate interpolation between any two data points. since each spline remains closer to each value either side of the point being estimated. With that said, if the true function representing the data points is known to be polynomial, and the data is sparse, it is possible that the Lagrange interpolation may be more accurate in certain specific cases. Furthermore, using a higher degree Lagrange interpolation would allow for fitting more closely to that of the spline method.
 	
 \section{Differential Equations}
+\subsection*{Exact Solution}
+	\includegraphics[scale=0.5]{init}
 \subsection*{Euler}
 	\includegraphics[scale=0.5]{eu-1-80}
-	\includegraphics[scale=0.5]{eu-075-80}
-	\includegraphics[scale=0.5]{eu-025-80}
 	\includegraphics[scale=0.5]{eu-1-200}
+	\includegraphics[scale=0.5]{eu-075-80}
 	\includegraphics[scale=0.5]{eu-075-200}
 	\includegraphics[scale=0.5]{eu-025-200}
+	\includegraphics[scale=0.5]{eu-025-80}
 	
 \subsection*{Lax-Wendroff}
 	\includegraphics[scale=0.5]{lx-1-80}
-	\includegraphics[scale=0.5]{lx-075-80}
-	\includegraphics[scale=0.5]{lx-025-80}
 	\includegraphics[scale=0.5]{lx-1-200}
+	\includegraphics[scale=0.5]{lx-075-80}
 	\includegraphics[scale=0.5]{lx-075-200}
+	\includegraphics[scale=0.5]{lx-025-80}
 	\includegraphics[scale=0.5]{lx-025-200}
 
 \subsection*{CFL $>$ 1}
 \includegraphics[scale=0.5]{eu-1002}
 \includegraphics[scale=0.5]{lx-1002}
+
+\subsection*{Analysis at t=10}
+
+When comparing the graphs for both Euler and Lax-Wendroff methods, increasing $\Delta x$ results in the t=10 solution being closer to the exact solution compared to a lower precision.
+
+For $CFL < 1$, each solution deviates further from the exact solution. The Euler method decreases in magnitude and stops levelling out to zero as $CFL$ decreases. Lax-Wendorff on the other hand becomes increasingly oscillatory.
+
+If $CFL$ is even slightly greater than 1 the solutions become erratic and oscillate wildly, particularly in the case of the Lax-Wendorff method. The Euler method is somewhat close to the exact solution, however it has sections of oscillation in some areas.
 
 \end{document}

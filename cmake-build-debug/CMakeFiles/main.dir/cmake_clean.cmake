@@ -5,7 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/src/interp.c.o"
   "CMakeFiles/main.dir/src/diff.c.o"
   "CMakeFiles/main.dir/src/utilities.c.o"
-  "CMakeFiles/main.dir/src/testing.c.o"
+  "CMakeFiles/main.dir/src/main.c.o"
   "main.pdb"
   "main"
 )

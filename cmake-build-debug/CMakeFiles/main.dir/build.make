@@ -201,28 +201,28 @@ CMakeFiles/main.dir/src/utilities.c.o.provides: CMakeFiles/main.dir/src/utilitie
 CMakeFiles/main.dir/src/utilities.c.o.provides.build: CMakeFiles/main.dir/src/utilities.c.o
 
 
-CMakeFiles/main.dir/src/testing.c.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/src/testing.c.o: ../src/testing.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tmiles/Code/Numerical_Programming/A2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/main.dir/src/testing.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/main.dir/src/testing.c.o   -c /home/tmiles/Code/Numerical_Programming/A2/src/testing.c
+CMakeFiles/main.dir/src/main.c.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/main.c.o: ../src/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tmiles/Code/Numerical_Programming/A2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/main.dir/src/main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/main.dir/src/main.c.o   -c /home/tmiles/Code/Numerical_Programming/A2/src/main.c
 
-CMakeFiles/main.dir/src/testing.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/src/testing.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/tmiles/Code/Numerical_Programming/A2/src/testing.c > CMakeFiles/main.dir/src/testing.c.i
+CMakeFiles/main.dir/src/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/src/main.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/tmiles/Code/Numerical_Programming/A2/src/main.c > CMakeFiles/main.dir/src/main.c.i
 
-CMakeFiles/main.dir/src/testing.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/src/testing.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/tmiles/Code/Numerical_Programming/A2/src/testing.c -o CMakeFiles/main.dir/src/testing.c.s
+CMakeFiles/main.dir/src/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/src/main.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/tmiles/Code/Numerical_Programming/A2/src/main.c -o CMakeFiles/main.dir/src/main.c.s
 
-CMakeFiles/main.dir/src/testing.c.o.requires:
+CMakeFiles/main.dir/src/main.c.o.requires:
 
-.PHONY : CMakeFiles/main.dir/src/testing.c.o.requires
+.PHONY : CMakeFiles/main.dir/src/main.c.o.requires
 
-CMakeFiles/main.dir/src/testing.c.o.provides: CMakeFiles/main.dir/src/testing.c.o.requires
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/testing.c.o.provides.build
-.PHONY : CMakeFiles/main.dir/src/testing.c.o.provides
+CMakeFiles/main.dir/src/main.c.o.provides: CMakeFiles/main.dir/src/main.c.o.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/main.c.o.provides.build
+.PHONY : CMakeFiles/main.dir/src/main.c.o.provides
 
-CMakeFiles/main.dir/src/testing.c.o.provides.build: CMakeFiles/main.dir/src/testing.c.o
+CMakeFiles/main.dir/src/main.c.o.provides.build: CMakeFiles/main.dir/src/main.c.o
 
 
 # Object files for target main
@@ -233,7 +233,7 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/src/interp.c.o" \
 "CMakeFiles/main.dir/src/diff.c.o" \
 "CMakeFiles/main.dir/src/utilities.c.o" \
-"CMakeFiles/main.dir/src/testing.c.o"
+"CMakeFiles/main.dir/src/main.c.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
@@ -244,7 +244,7 @@ main: CMakeFiles/main.dir/src/thomas.c.o
 main: CMakeFiles/main.dir/src/interp.c.o
 main: CMakeFiles/main.dir/src/diff.c.o
 main: CMakeFiles/main.dir/src/utilities.c.o
-main: CMakeFiles/main.dir/src/testing.c.o
+main: CMakeFiles/main.dir/src/main.c.o
 main: CMakeFiles/main.dir/build.make
 main: CMakeFiles/main.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/tmiles/Code/Numerical_Programming/A2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable main"
@@ -261,7 +261,7 @@ CMakeFiles/main.dir/requires: CMakeFiles/main.dir/src/thomas.c.o.requires
 CMakeFiles/main.dir/requires: CMakeFiles/main.dir/src/interp.c.o.requires
 CMakeFiles/main.dir/requires: CMakeFiles/main.dir/src/diff.c.o.requires
 CMakeFiles/main.dir/requires: CMakeFiles/main.dir/src/utilities.c.o.requires
-CMakeFiles/main.dir/requires: CMakeFiles/main.dir/src/testing.c.o.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/src/main.c.o.requires
 
 .PHONY : CMakeFiles/main.dir/requires
 

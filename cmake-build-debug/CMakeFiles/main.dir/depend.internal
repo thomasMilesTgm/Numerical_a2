@@ -8,6 +8,9 @@ CMakeFiles/main.dir/src/interp.c.o
  /home/tmiles/Code/Numerical_Programming/A2/src/interp.c
  /home/tmiles/Code/Numerical_Programming/A2/src/interp.h
  /home/tmiles/Code/Numerical_Programming/A2/src/thomas.h
+CMakeFiles/main.dir/src/main.c.o
+ /home/tmiles/Code/Numerical_Programming/A2/src/main.c
+ /home/tmiles/Code/Numerical_Programming/A2/src/tasks.h
 CMakeFiles/main.dir/src/newton_ralphson.c.o
  /home/tmiles/Code/Numerical_Programming/A2/src/newton_ralphson.c
  /home/tmiles/Code/Numerical_Programming/A2/src/newton_ralphson.h
@@ -17,14 +20,6 @@ CMakeFiles/main.dir/src/tasks.c.o
  /home/tmiles/Code/Numerical_Programming/A2/src/newton_ralphson.h
  /home/tmiles/Code/Numerical_Programming/A2/src/tasks.c
  /home/tmiles/Code/Numerical_Programming/A2/src/tasks.h
- /home/tmiles/Code/Numerical_Programming/A2/src/thomas.h
- /home/tmiles/Code/Numerical_Programming/A2/src/utilities.h
-CMakeFiles/main.dir/src/testing.c.o
- /home/tmiles/Code/Numerical_Programming/A2/src/diff.h
- /home/tmiles/Code/Numerical_Programming/A2/src/interp.h
- /home/tmiles/Code/Numerical_Programming/A2/src/newton_ralphson.h
- /home/tmiles/Code/Numerical_Programming/A2/src/tasks.h
- /home/tmiles/Code/Numerical_Programming/A2/src/testing.c
  /home/tmiles/Code/Numerical_Programming/A2/src/thomas.h
  /home/tmiles/Code/Numerical_Programming/A2/src/utilities.h
 CMakeFiles/main.dir/src/thomas.c.o

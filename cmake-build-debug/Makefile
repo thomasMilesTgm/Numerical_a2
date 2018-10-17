@@ -177,6 +177,33 @@ src/interp.c.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/interp.c.s
 .PHONY : src/interp.c.s
 
+src/main.o: src/main.c.o
+
+.PHONY : src/main.o
+
+# target to build an object file
+src/main.c.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/main.c.o
+.PHONY : src/main.c.o
+
+src/main.i: src/main.c.i
+
+.PHONY : src/main.i
+
+# target to preprocess a source file
+src/main.c.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/main.c.i
+.PHONY : src/main.c.i
+
+src/main.s: src/main.c.s
+
+.PHONY : src/main.s
+
+# target to generate assembly for a file
+src/main.c.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/main.c.s
+.PHONY : src/main.c.s
+
 src/newton_ralphson.o: src/newton_ralphson.c.o
 
 .PHONY : src/newton_ralphson.o
@@ -230,33 +257,6 @@ src/tasks.s: src/tasks.c.s
 src/tasks.c.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/tasks.c.s
 .PHONY : src/tasks.c.s
-
-src/testing.o: src/testing.c.o
-
-.PHONY : src/testing.o
-
-# target to build an object file
-src/testing.c.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/testing.c.o
-.PHONY : src/testing.c.o
-
-src/testing.i: src/testing.c.i
-
-.PHONY : src/testing.i
-
-# target to preprocess a source file
-src/testing.c.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/testing.c.i
-.PHONY : src/testing.c.i
-
-src/testing.s: src/testing.c.s
-
-.PHONY : src/testing.s
-
-# target to generate assembly for a file
-src/testing.c.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/testing.c.s
-.PHONY : src/testing.c.s
 
 src/thomas.o: src/thomas.c.o
 
@@ -327,15 +327,15 @@ help:
 	@echo "... src/interp.o"
 	@echo "... src/interp.i"
 	@echo "... src/interp.s"
+	@echo "... src/main.o"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
 	@echo "... src/newton_ralphson.o"
 	@echo "... src/newton_ralphson.i"
 	@echo "... src/newton_ralphson.s"
 	@echo "... src/tasks.o"
 	@echo "... src/tasks.i"
 	@echo "... src/tasks.s"
-	@echo "... src/testing.o"
-	@echo "... src/testing.i"
-	@echo "... src/testing.s"
 	@echo "... src/thomas.o"
 	@echo "... src/thomas.i"
 	@echo "... src/thomas.s"

@@ -6,9 +6,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "/home/tmiles/Code/Numerical_Programming/A2/src/diff.c" "/home/tmiles/Code/Numerical_Programming/A2/cmake-build-debug/CMakeFiles/main.dir/src/diff.c.o"
   "/home/tmiles/Code/Numerical_Programming/A2/src/interp.c" "/home/tmiles/Code/Numerical_Programming/A2/cmake-build-debug/CMakeFiles/main.dir/src/interp.c.o"
+  "/home/tmiles/Code/Numerical_Programming/A2/src/main.c" "/home/tmiles/Code/Numerical_Programming/A2/cmake-build-debug/CMakeFiles/main.dir/src/main.c.o"
   "/home/tmiles/Code/Numerical_Programming/A2/src/newton_ralphson.c" "/home/tmiles/Code/Numerical_Programming/A2/cmake-build-debug/CMakeFiles/main.dir/src/newton_ralphson.c.o"
   "/home/tmiles/Code/Numerical_Programming/A2/src/tasks.c" "/home/tmiles/Code/Numerical_Programming/A2/cmake-build-debug/CMakeFiles/main.dir/src/tasks.c.o"
-  "/home/tmiles/Code/Numerical_Programming/A2/src/testing.c" "/home/tmiles/Code/Numerical_Programming/A2/cmake-build-debug/CMakeFiles/main.dir/src/testing.c.o"
   "/home/tmiles/Code/Numerical_Programming/A2/src/thomas.c" "/home/tmiles/Code/Numerical_Programming/A2/cmake-build-debug/CMakeFiles/main.dir/src/thomas.c.o"
   "/home/tmiles/Code/Numerical_Programming/A2/src/utilities.c" "/home/tmiles/Code/Numerical_Programming/A2/cmake-build-debug/CMakeFiles/main.dir/src/utilities.c.o"
   )

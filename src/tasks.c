@@ -233,16 +233,19 @@ void waveeqn(const char* q6_file)
 	double Dx = 1.0/Nx;
 	double Dt = CFL*Dx/c;
 	double f_x0[Nx];
-
+	FILE* init = fopen("init.csv", "w");
 	// initialize f(x,t=0)
 	for (int i=0; i<Nx; i++) {
 		double x = i*Dx;
 
 		if (x < 0.125 || x > 0.375) {
 			f_x0[i] = 0;
+			fprintf(init, "%f,0\n",x);
 
 		} else {
+
 			f_x0[i] = 0.5*(1 - cos(8*M_PI*(x - 0.125)));
+			fprintf(init, "%f,%f\n",x,f_x0[i]);
 		}
 	}
 	solve(Nx, Nt, Dx, Dt, f_x0);

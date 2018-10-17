@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.3.30)  17 OCT 2018 12:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.3.30)  17 OCT 2018 13:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -317,34 +317,28 @@ Overfull \hbox (43.77304pt too wide) in paragraph at lines 139--141
 [] 
  []
 
-</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-80.png, id=28, 429.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/init.png, id=28, 455.451
+57pt x 255.95625pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/init.png Graphic fi
+le (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/init.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+init.png  used on input line 146. on input line 146.
+Package pdftex.def Info: Requested size: 227.72522pt x 127.9778pt on input line
+ 146.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-80.png, id=29, 429.
 10312pt x 284.56313pt>
 File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-80.png Graphic
  file (type png)
 <use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-80.png>
 Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
-eu-1-80.png  used on input line 146. on input line 146.
-Package pdftex.def Info: Requested size: 214.55103pt x 142.2812pt on input line
- 146.
-</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-80.png, id=29, 42
-9.10312pt x 284.56313pt>
-File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-80.png Graph
-ic file (type png)
-<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-80.png>
-Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
-eu-075-80.png  used on input line 147. on input line 147.
-Package pdftex.def Info: Requested size: 214.55103pt x 142.2812pt on input line
- 147.
-</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-80.png, id=30, 42
-9.10312pt x 284.56313pt>
-File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-80.png Graph
-ic file (type png)
-<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-80.png>
-Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
-eu-025-80.png  used on input line 148. on input line 148.
+eu-1-80.png  used on input line 148. on input line 148.
 Package pdftex.def Info: Requested size: 214.55103pt x 142.2812pt on input line
  148.
-</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-200.png, id=31, 429
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-200.png, id=30, 429
 .10312pt x 284.56313pt>
 File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-200.png Graphi
 c file (type png)
@@ -353,89 +347,88 @@ Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
 eu-1-200.png  used on input line 149. on input line 149.
 Package pdftex.def Info: Requested size: 214.55103pt x 142.2812pt on input line
  149.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-80.png, id=31, 42
+9.10312pt x 284.56313pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-80.png Graph
+ic file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-80.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+eu-075-80.png  used on input line 150. on input line 150.
+Package pdftex.def Info: Requested size: 214.55103pt x 142.2812pt on input line
+ 150.
 </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-200.png, id=32, 4
 29.10312pt x 284.56313pt>
 File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-200.png Grap
 hic file (type png)
 <use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-200.png>
 Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
-eu-075-200.png  used on input line 150. on input line 150.
+eu-075-200.png  used on input line 151. on input line 151.
 Package pdftex.def Info: Requested size: 214.55103pt x 142.2812pt on input line
- 150.
+ 151.
 </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-200.png, id=33, 4
 29.10312pt x 284.56313pt>
 File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-200.png Grap
 hic file (type png)
 <use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-200.png>
 Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
-eu-025-200.png  used on input line 151. on input line 151.
+eu-025-200.png  used on input line 152. on input line 152.
 Package pdftex.def Info: Requested size: 214.55103pt x 142.2812pt on input line
- 151.
+ 152.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-80.png, id=34, 42
+9.10312pt x 284.56313pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-80.png Graph
+ic file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-80.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+eu-025-80.png  used on input line 153. on input line 153.
+Package pdftex.def Info: Requested size: 214.55103pt x 142.2812pt on input line
+ 153.
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--152
+Underfull \hbox (badness 10000) in paragraph at lines 148--154
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--152
+Underfull \hbox (badness 10000) in paragraph at lines 148--154
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--152
+Underfull \hbox (badness 10000) in paragraph at lines 148--154
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--152
+Underfull \hbox (badness 10000) in paragraph at lines 148--154
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--152
+Underfull \hbox (badness 10000) in paragraph at lines 148--154
 []
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3 </home/tmiles/Code/Numerical_Programming/A2/report/gfx/spline.png (PNG copy
 )> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lagrange.png (PNG cop
-y)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-80.png (PNG cop
-y)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-80.png (PNG c
-opy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-80.png (PNG
- copy)>]
-</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-80.png, id=37, 385.
+y)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/init.png (PNG copy)>
+ </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-80.png (PNG copy)>
+ </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-200.png (PNG copy)
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-80.png, id=38, 385.
 44pt x 249.93375pt>
 File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-80.png Graphic
  file (type png)
 <use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-80.png>
 Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
-lx-1-80.png  used on input line 154. on input line 154.
-Package pdftex.def Info: Requested size: 192.71953pt x 124.96657pt on input lin
-e 154.
-</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-80.png, id=38, 38
-5.44pt x 249.93375pt>
-File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-80.png Graph
-ic file (type png)
-<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-80.png>
-Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
-lx-075-80.png  used on input line 155. on input line 155.
-Package pdftex.def Info: Requested size: 192.71953pt x 124.96657pt on input lin
-e 155.
-</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-80.png, id=39, 38
-5.44pt x 249.93375pt>
-File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-80.png Graph
-ic file (type png)
-<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-80.png>
-Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
-lx-025-80.png  used on input line 156. on input line 156.
+lx-1-80.png  used on input line 156. on input line 156.
 Package pdftex.def Info: Requested size: 192.71953pt x 124.96657pt on input lin
 e 156.
-</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-200.png, id=40, 385
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-200.png, id=39, 385
 .44pt x 249.93375pt>
 File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-200.png Graphi
 c file (type png)
@@ -444,116 +437,133 @@ Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
 lx-1-200.png  used on input line 157. on input line 157.
 Package pdftex.def Info: Requested size: 192.71953pt x 124.96657pt on input lin
 e 157.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-80.png, id=40, 38
+5.44pt x 249.93375pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-80.png Graph
+ic file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-80.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+lx-075-80.png  used on input line 158. on input line 158.
+Package pdftex.def Info: Requested size: 192.71953pt x 124.96657pt on input lin
+e 158.
 </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-200.png, id=41, 3
 85.44pt x 249.93375pt>
 File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-200.png Grap
 hic file (type png)
 <use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-200.png>
 Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
-lx-075-200.png  used on input line 158. on input line 158.
+lx-075-200.png  used on input line 159. on input line 159.
 Package pdftex.def Info: Requested size: 192.71953pt x 124.96657pt on input lin
-e 158.
-</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-200.png, id=42, 3
+e 159.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-80.png, id=42, 38
+5.44pt x 249.93375pt>
+File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-80.png Graph
+ic file (type png)
+<use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-80.png>
+Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
+lx-025-80.png  used on input line 160. on input line 160.
+Package pdftex.def Info: Requested size: 192.71953pt x 124.96657pt on input lin
+e 160.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-200.png, id=43, 3
 85.44pt x 249.93375pt>
 File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-200.png Grap
 hic file (type png)
 <use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-200.png>
 Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
-lx-025-200.png  used on input line 159. on input line 159.
+lx-025-200.png  used on input line 161. on input line 161.
 Package pdftex.def Info: Requested size: 192.71953pt x 124.96657pt on input lin
-e 159.
+e 161.
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--160
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--160
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--160
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--160
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--160
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
 []
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4 </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1-200.png (PNG co
-py)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-200.png (PNG
- copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-200.png (
-PNG copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-80.png (
-PNG copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-80.png
- (PNG copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-80.p
-ng (PNG copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-200.
-png (PNG copy)>]
-</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1002.png, id=46, 455.
+ [4 </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-80.png (PNG c
+opy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-075-200.png (PN
+G copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-200.png 
+(PNG copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-025-80.pn
+g (PNG copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-80.pn
+g (PNG copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1-200.p
+ng (PNG copy)>]
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1002.png, id=47, 455.
 45157pt x 255.95625pt>
 File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1002.png Graphic
  file (type png)
 <use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1002.png>
 Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
-eu-1002.png  used on input line 162. on input line 162.
+eu-1002.png  used on input line 164. on input line 164.
 Package pdftex.def Info: Requested size: 227.72522pt x 127.9778pt on input line
- 162.
-</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1002.png, id=47, 455.
+ 164.
+</home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1002.png, id=48, 455.
 45157pt x 255.95625pt>
 File: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1002.png Graphic
  file (type png)
 <use /home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1002.png>
 Package pdftex.def Info: /home/tmiles/Code/Numerical_Programming/A2/report/gfx/
-lx-1002.png  used on input line 163. on input line 163.
+lx-1002.png  used on input line 165. on input line 165.
 Package pdftex.def Info: Requested size: 227.72522pt x 127.9778pt on input line
- 163.
+ 165.
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--164
+Underfull \hbox (badness 10000) in paragraph at lines 164--166
 []
  []
 
-[5
 
- </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-200.png (PNG cop
-y)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-200.png (PNG 
-copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1002.png (PNG 
-copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1002.png (PNG 
-copy)>] (./report.aux) ) 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-80.png (PNG c
+opy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-075-200.png (PN
+G copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-80.png (
+PNG copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-025-200.pn
+g (PNG copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/eu-1002.pn
+g (PNG copy)> </home/tmiles/Code/Numerical_Programming/A2/report/gfx/lx-1002.pn
+g (PNG copy)>] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 2219 strings out of 492990
- 34180 string characters out of 6135005
+ 2224 strings out of 492990
+ 34455 string characters out of 6135005
  109696 words of memory out of 5000000
- 5742 multiletter control sequences out of 15000+600000
+ 5746 multiletter control sequences out of 15000+600000
  9070 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,14n,25p,579b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
-0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmti10.pfb>
-Output written on report.pdf (6 pages, 896257 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on report.pdf (6 pages, 914403 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 

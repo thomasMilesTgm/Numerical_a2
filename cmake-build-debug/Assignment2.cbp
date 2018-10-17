@@ -96,6 +96,9 @@
 		<Unit filename="/home/tmiles/Code/Numerical_Programming/A2/src/interp.h">
 			<Option target="main"/>
 		</Unit>
+		<Unit filename="/home/tmiles/Code/Numerical_Programming/A2/src/main.c">
+			<Option target="main"/>
+		</Unit>
 		<Unit filename="/home/tmiles/Code/Numerical_Programming/A2/src/newton_ralphson.c">
 			<Option target="main"/>
 		</Unit>
@@ -106,9 +109,6 @@
 			<Option target="main"/>
 		</Unit>
 		<Unit filename="/home/tmiles/Code/Numerical_Programming/A2/src/tasks.h">
-			<Option target="main"/>
-		</Unit>
-		<Unit filename="/home/tmiles/Code/Numerical_Programming/A2/src/testing.c">
 			<Option target="main"/>
 		</Unit>
 		<Unit filename="/home/tmiles/Code/Numerical_Programming/A2/src/thomas.c">

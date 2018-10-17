@@ -8,6 +8,9 @@ CMakeFiles/main.dir/src/interp.c.o: ../src/interp.c
 CMakeFiles/main.dir/src/interp.c.o: ../src/interp.h
 CMakeFiles/main.dir/src/interp.c.o: ../src/thomas.h
 
+CMakeFiles/main.dir/src/main.c.o: ../src/main.c
+CMakeFiles/main.dir/src/main.c.o: ../src/tasks.h
+
 CMakeFiles/main.dir/src/newton_ralphson.c.o: ../src/newton_ralphson.c
 CMakeFiles/main.dir/src/newton_ralphson.c.o: ../src/newton_ralphson.h
 
@@ -18,14 +21,6 @@ CMakeFiles/main.dir/src/tasks.c.o: ../src/tasks.c
 CMakeFiles/main.dir/src/tasks.c.o: ../src/tasks.h
 CMakeFiles/main.dir/src/tasks.c.o: ../src/thomas.h
 CMakeFiles/main.dir/src/tasks.c.o: ../src/utilities.h
-
-CMakeFiles/main.dir/src/testing.c.o: ../src/diff.h
-CMakeFiles/main.dir/src/testing.c.o: ../src/interp.h
-CMakeFiles/main.dir/src/testing.c.o: ../src/newton_ralphson.h
-CMakeFiles/main.dir/src/testing.c.o: ../src/tasks.h
-CMakeFiles/main.dir/src/testing.c.o: ../src/testing.c
-CMakeFiles/main.dir/src/testing.c.o: ../src/thomas.h
-CMakeFiles/main.dir/src/testing.c.o: ../src/utilities.h
 
 CMakeFiles/main.dir/src/thomas.c.o: ../src/thomas.c
 CMakeFiles/main.dir/src/thomas.c.o: ../src/thomas.h

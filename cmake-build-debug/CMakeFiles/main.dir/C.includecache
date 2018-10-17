@@ -32,6 +32,20 @@ stdio.h
 math.h
 /home/tmiles/Code/Numerical_Programming/A2/src/math.h
 
+/home/tmiles/Code/Numerical_Programming/A2/src/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+sys/time.h
+-
+string.h
+-
+tasks.h
+/home/tmiles/Code/Numerical_Programming/A2/src/tasks.h
+
 /home/tmiles/Code/Numerical_Programming/A2/src/newton_ralphson.c
 newton_ralphson.h
 /home/tmiles/Code/Numerical_Programming/A2/src/newton_ralphson.h
@@ -71,20 +85,6 @@ diff.h
 /home/tmiles/Code/Numerical_Programming/A2/src/diff.h
 
 /home/tmiles/Code/Numerical_Programming/A2/src/tasks.h
-
-/home/tmiles/Code/Numerical_Programming/A2/src/testing.c
-newton_ralphson.h
-/home/tmiles/Code/Numerical_Programming/A2/src/newton_ralphson.h
-tasks.h
-/home/tmiles/Code/Numerical_Programming/A2/src/tasks.h
-thomas.h
-/home/tmiles/Code/Numerical_Programming/A2/src/thomas.h
-interp.h
-/home/tmiles/Code/Numerical_Programming/A2/src/interp.h
-diff.h
-/home/tmiles/Code/Numerical_Programming/A2/src/diff.h
-utilities.h
-/home/tmiles/Code/Numerical_Programming/A2/src/utilities.h
 
 /home/tmiles/Code/Numerical_Programming/A2/src/thomas.c
 thomas.h
